@@ -1,0 +1,6 @@
+category: Gnome
+sdesc: "Clutter-based map display library (sources)"
+ldesc: "Libchamplain is a C library providing a ClutterActor to display 
+maps. It also provides a Gtk+ widget to display maps in Gtk+ 
+applications. It supports numerous free map sources such as 
+OpenStreetMap, OpenAerialMap and Maps for free."
