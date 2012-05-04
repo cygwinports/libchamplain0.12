@@ -19,3 +19,5 @@ girepository_GtkChamplain0_12_CONTENTS="usr/*/gir*/GtkChamplain-0.12.*"
 vala_champlain0_12_CONTENTS="usr/share/vala/vapi/"
 
 CYGCONF_ARGS="--enable-vala"
+
+KEEP_LA_FILES="none"
