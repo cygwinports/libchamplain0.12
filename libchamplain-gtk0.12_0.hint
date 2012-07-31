@@ -1,8 +1,0 @@
-category: Gnome
-requires: libchamplain0.12_0 libclutter1.0_0 libclutter-gtk1.0_0 libglib2.0_0 libgtk3_0
-external-source: libchamplain0.12
-sdesc: "Clutter-based GTK+ map display widget (runtime)"
-ldesc: "Libchamplain is a C library providing a ClutterActor to display 
-maps. It also provides a Gtk+ widget to display maps in Gtk+ 
-applications. It supports numerous free map sources such as 
-OpenStreetMap, OpenAerialMap and Maps for free."

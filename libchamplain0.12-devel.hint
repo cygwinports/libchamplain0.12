@@ -1,8 +1,0 @@
-category: X11
-requires: libchamplain0.12_0 libcairo-devel libclutter1.0-devel libgdk_pixbuf2.0-devel libglib2.0-devel libmemphis0.2-devel libpango1.0-devel libsoup2.4-devel libsoup-gnome2.4-devel libsqlite3-devel
-external-source: libchamplain0.12
-sdesc: "Clutter-based map display library (development)"
-ldesc: "Libchamplain is a C library providing a ClutterActor to display 
-maps. It also provides a Gtk+ widget to display maps in Gtk+ 
-applications. It supports numerous free map sources such as 
-OpenStreetMap, OpenAerialMap and Maps for free."

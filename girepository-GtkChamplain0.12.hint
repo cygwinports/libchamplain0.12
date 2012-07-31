@@ -1,8 +1,0 @@
-category: X11
-requires: libchamplain-gtk0.12_0 girepository-Champlain0.12 girepository-Clutter1.0 girepository-Gtk3.0 girepository-GtkClutter1.0
-external-source: libchamplain0.12
-sdesc: "Clutter-based GTK+ map display widget (GObjectIntrospection data)"
-ldesc: "Libchamplain is a C library providing a ClutterActor to display 
-maps. It also provides a Gtk+ widget to display maps in Gtk+ 
-applications. It supports numerous free map sources such as 
-OpenStreetMap, OpenAerialMap and Maps for free."

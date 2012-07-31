@@ -1,7 +1,13 @@
 ORIG_PN="libchamplain"
 inherit gnome2
 
-DESCRIPTION="Clutter-based map display library and GTK+ widget"
+CATEGORY="Gnome"
+SUMMARY="Clutter-based map display library"
+DESCRIPTION="Libchamplain is a C library providing a ClutterActor to display
+maps. It also provides a Gtk+ widget to display maps in Gtk+
+applications. It supports numerous free map sources such as
+OpenStreetMap, OpenAerialMap and Maps for free."
+
 HOMEPAGE="http://projects.gnome.org/libchamplain/"
 
 PKG_NAMES="libchamplain0.12_0 libchamplain0.12-devel

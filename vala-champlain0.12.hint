@@ -1,8 +1,0 @@
-category: X11
-requires: vala
-external-source: libchamplain0.12
-sdesc: "Clutter-based map display library (Vala bindings)"
-ldesc: "Libchamplain is a C library providing a ClutterActor to display 
-maps. It also provides a Gtk+ widget to display maps in Gtk+ 
-applications. It supports numerous free map sources such as 
-OpenStreetMap, OpenAerialMap and Maps for free."
