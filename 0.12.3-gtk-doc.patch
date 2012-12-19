@@ -1,0 +1,22 @@
+--- origsrc/libchamplain-0.12.3/docs/reference/Makefile.am	2011-12-19 16:34:29.000000000 -0600
++++ src/libchamplain-0.12.3/docs/reference/Makefile.am	2012-12-18 22:39:04.810424300 -0600
+@@ -7,7 +7,7 @@ AUTOMAKE_OPTIONS = 1.6
+ DOC_MODULE=libchamplain
+ 
+ # Uncomment for versioned docs and specify the version of the module, e.g. '2'.
+-#DOC_MODULE_VERSION=2
++DOC_MODULE_VERSION=@CHAMPLAIN_API_VERSION@
+ 
+ 
+ # The top-level SGML file. You can change this if you want to.
+--- origsrc/libchamplain-0.12.3/docs/reference-gtk/Makefile.am	2011-12-19 16:34:29.000000000 -0600
++++ src/libchamplain-0.12.3/docs/reference-gtk/Makefile.am	2012-12-18 22:38:58.842082900 -0600
+@@ -7,7 +7,7 @@ AUTOMAKE_OPTIONS = 1.6
+ DOC_MODULE=libchamplain-gtk
+ 
+ # Uncomment for versioned docs and specify the version of the module, e.g. '2'.
+-#DOC_MODULE_VERSION=2
++DOC_MODULE_VERSION=@CHAMPLAIN_API_VERSION@
+ 
+ 
+ # The top-level SGML file. You can change this if you want to.
