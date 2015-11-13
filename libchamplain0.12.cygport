@@ -2,7 +2,7 @@ ORIG_PN="libchamplain"
 inherit gnome2
 
 NAME="libchamplain0.12"
-VERSION=0.12.9
+VERSION=0.12.11
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="Clutter-based map display library"
